@@ -1,0 +1,180 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AppDelegate"
+provides-nominal:
+- "6Runner11AppDelegateC"
+provides-member:
+- ["6Runner11AppDelegateC", ""]
+provides-dynamic-lookup:
+- "application"
+depends-top-level:
+- "AppDelegate"
+- "Bool"
+- "FlutterAppDelegate"
+- !private "GeneratedPluginRegistrant"
+- "UIApplication"
+depends-member:
+- ["6Runner11AppDelegateC", "Bool"]
+- !private ["6Runner11AppDelegateC", "GeneratedPluginRegistrant"]
+- ["6Runner11AppDelegateC", "UIApplication"]
+- ["6Runner11AppDelegateC", "application"]
+- ["6Runner11AppDelegateC", "deinit"]
+- ["6Runner11AppDelegateC", "init"]
+- !private ["s7CVarArgP", "GeneratedPluginRegistrant"]
+- ["s7CVarArgP", "LaunchOptionsKey"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "application"]
+- !private ["s7CVarArgP", "register"]
+- !private ["s28CustomDebugStringConvertibleP", "GeneratedPluginRegistrant"]
+- ["s28CustomDebugStringConvertibleP", "LaunchOptionsKey"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "application"]
+- !private ["s28CustomDebugStringConvertibleP", "register"]
+- !private ["s23CustomStringConvertibleP", "GeneratedPluginRegistrant"]
+- ["s23CustomStringConvertibleP", "LaunchOptionsKey"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "application"]
+- !private ["s23CustomStringConvertibleP", "register"]
+- !private ["SQ", "GeneratedPluginRegistrant"]
+- ["SQ", "LaunchOptionsKey"]
+- ["SQ", ""]
+- !private ["SQ", "application"]
+- !private ["SQ", "register"]
+- ["So18FlutterAppDelegateC", "Bool"]
+- !private ["So18FlutterAppDelegateC", "GeneratedPluginRegistrant"]
+- ["So18FlutterAppDelegateC", "UIApplication"]
+- ["So18FlutterAppDelegateC", ""]
+- ["So18FlutterAppDelegateC", "application"]
+- ["So18FlutterAppDelegateC", "init"]
+- !private ["So27FlutterAppLifeCycleProviderP", "GeneratedPluginRegistrant"]
+- ["So27FlutterAppLifeCycleProviderP", ""]
+- !private ["So27FlutterAppLifeCycleProviderP", "application"]
+- !private ["So21FlutterPluginRegistryP", "GeneratedPluginRegistrant"]
+- ["So21FlutterPluginRegistryP", ""]
+- !private ["So21FlutterPluginRegistryP", "application"]
+- !private ["So25GeneratedPluginRegistrantC", "register"]
+- !private ["SH", "GeneratedPluginRegistrant"]
+- ["SH", "LaunchOptionsKey"]
+- ["SH", ""]
+- !private ["SH", "application"]
+- !private ["SH", "register"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "GeneratedPluginRegistrant"]
+- ["So8NSObjectC", "LaunchOptionsKey"]
+- ["So8NSObjectC", "UIApplication"]
+- ["So8NSObjectC", "application"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "register"]
+- !private ["So8NSObjectP", "GeneratedPluginRegistrant"]
+- ["So8NSObjectP", "LaunchOptionsKey"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "application"]
+- !private ["So8NSObjectP", "register"]
+- ["So13UIApplicationC", "LaunchOptionsKey"]
+- !private ["So21UIApplicationDelegateP", "GeneratedPluginRegistrant"]
+- ["So21UIApplicationDelegateP", ""]
+- !private ["So21UIApplicationDelegateP", "application"]
+- !private ["So30UIPasteConfigurationSupportingP", "GeneratedPluginRegistrant"]
+- ["So30UIPasteConfigurationSupportingP", "LaunchOptionsKey"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "application"]
+- ["So11UIResponderC", "Bool"]
+- !private ["So11UIResponderC", "GeneratedPluginRegistrant"]
+- ["So11UIResponderC", "LaunchOptionsKey"]
+- ["So11UIResponderC", "UIApplication"]
+- ["So11UIResponderC", "application"]
+- ["So11UIResponderC", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "GeneratedPluginRegistrant"]
+- ["So30UIResponderStandardEditActionsP", "LaunchOptionsKey"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "application"]
+- !private ["So23UIUserActivityRestoringP", "GeneratedPluginRegistrant"]
+- ["So23UIUserActivityRestoringP", "LaunchOptionsKey"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "application"]
+- !private ["So32UNUserNotificationCenterDelegateP", "GeneratedPluginRegistrant"]
+- ["So32UNUserNotificationCenterDelegateP", ""]
+- !private ["So32UNUserNotificationCenterDelegateP", "application"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "GeneratedPluginRegistrant"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "LaunchOptionsKey"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "application"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "register"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "GeneratedPluginRegistrant"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "LaunchOptionsKey"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "application"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "register"]
+depends-nominal:
+- "6Runner11AppDelegateC"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "So18FlutterAppDelegateC"
+- "So27FlutterAppLifeCycleProviderP"
+- "So21FlutterPluginRegistryP"
+- !private "So25GeneratedPluginRegistrantC"
+- "SH"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So13UIApplicationC"
+- "So21UIApplicationDelegateP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So23UIUserActivityRestoringP"
+- "So32UNUserNotificationCenterDelegateP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMedia.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreAudio.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/xuqing/flutter_project/flutter_bosstab/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h"
+- "/Users/xuqing/flutter_project/flutter_bosstab/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h"
+- "/Users/xuqing/flutter_project/flutter_bosstab/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h"
+- "/Users/xuqing/flutter_project/flutter_bosstab/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h"
+- "/Users/xuqing/flutter_project/flutter_bosstab/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h"
+- "/Users/xuqing/flutter_project/flutter_bosstab/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h"
+- "/Users/xuqing/flutter_project/flutter_bosstab/ios/Runner/Runner-Bridging-Header.h"
+- "/Users/xuqing/flutter_project/flutter_bosstab/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h"
+- "/Users/xuqing/flutter_project/flutter_bosstab/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h"
+- "/Users/xuqing/flutter_project/flutter_bosstab/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h"
+- "/Users/xuqing/flutter_project/flutter_bosstab/ios/Flutter/Flutter.framework/Headers/Flutter.h"
+- "/Users/xuqing/flutter_project/flutter_bosstab/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h"
+- "/Users/xuqing/flutter_project/flutter_bosstab/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h"
+- "/Users/xuqing/flutter_project/flutter_bosstab/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h"
+- "/Users/xuqing/flutter_project/flutter_bosstab/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h"
+- "/Users/xuqing/flutter_project/flutter_bosstab/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h"
+- "/Users/xuqing/flutter_project/flutter_bosstab/ios/Runner/GeneratedPluginRegistrant.h"
+- "/Users/xuqing/flutter_project/flutter_bosstab/ios/Flutter/Flutter.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "80d0826c0c471f9487fe4e05b6cf857b"
